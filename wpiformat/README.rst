@@ -16,7 +16,7 @@ Installation
 
 On Windows, execute::
 
-    py -m pip install wpiformat
+    python -m pip install wpiformat
 
 On Linux/OSX, execute::
 
